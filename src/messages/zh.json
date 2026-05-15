@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "title": "卡尔尼丘公园 | 立陶宛考纳斯",
+    "description": "卡尔尼丘公园完整指南。开放时间、交通指南、照片和游客评价。"
+  },
+  "header": {
+    "siteName": "卡尔尼丘公园",
+    "home": "首页",
+    "gallery": "画廊",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "卡尔尼丘公园",
+    "subtitle": "立陶宛考纳斯美丽的城市公园",
+    "rating": "4.7(6,033)",
+    "reviewCount": "6,033 条评价",
+    "hours": "24小时开放",
+    "openMaps": "查看位置",
+    "mapsUrl": "https://maps.app.goo.gl/tS17wHPJHJSeCe8E7"
+  },
+  "intro": {
+    "title": "探索卡尔尼丘公园",
+    "description": "卡尔尼丘公园（Kalniečių parkas）是位于立陶宛第二大城市考纳斯的一座深受喜爱的城市公园。这片绿洲为居民和游客提供了城市中宁静的休憩场所。公园设有步行道、休闲区和美丽的景观，展示了立陶宛的自然之美。这里是家庭、慢跑者和任何寻求自然放松的人的完美目的地。",
+    "visitGuide": {
+      "title": "游览指南",
+      "items": [
+        "每周7天，每天24小时开放。",
+        "所有游客免费入场。",
+        "非常适合散步、慢跑和野餐。",
+        "春季和夏季游览最佳，可欣赏-full绿意。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点特色",
+      "items": [
+        "考纳斯美丽的城市公园",
+        "步行和自行车道",
+        "家庭休闲区",
+        "城市中的宁静自然休憩地"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "探索卡尔尼丘公园",
+    "sections": [
+      {
+        "id": "overview",
+        "title": "公园概览",
+        "content": "卡尔尼丘公园是考纳斯珍贵的绿地之一，为居民和游客提供了一个逃离城市喧嚣的场所。公园维护良好，拥有多样化的植被，为当地鸟类和小野生动物创造了栖息地。"
+      },
+      {
+        "id": "activities",
+        "title": "活动与休闲",
+        "content": "公园为户外活动提供了优良的设施。游客可以沿着铺好的小径悠闲散步，找到安静的角落阅读或冥想，或者只是在草地上放松。公园也深受健身爱好者的欢迎，是晨跑和户外锻炼的好去处。"
+      },
+      {
+        "id": "location",
+        "title": "位置与交通",
+        "content": "公园位于考纳斯城市市政区，交通便利，可乘坐公共交通工具或开车到达。地址是：考纳斯，50119考纳斯城市市政区，立陶宛。Plus Code: WWFX+HV。公园的中心位置使其成为当地人和游客都喜欢的目的地。"
+      },
+      {
+        "id": "nature",
+        "title": "自然环境",
+        "content": "公园展示了立陶宛的自然之美，拥有多样的树种、维护良好的草坪和季节性花卉展示。全年公园提供变化的景色——从春花到秋叶，使每次游览都独特而愉快。"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "卡尔尼丘公园的美丽景色",
+    "captions": [
+      "公园入口",
+      "步行小径",
+      "绿色草坪",
+      "树木和植被",
+      "休闲区",
+      "公园景色",
+      "自然风光",
+      "宁静休憩地",
+      "公园景观",
+      "户外活动",
+      "季节之美",
+      "公园设施",
+      "自然栖息地",
+      "风景视图"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showMore": "显示更多照片",
+    "mapsUrl": "https://maps.app.goo.gl/tS17wHPJHJSeCe8E7"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "游客反馈可通过Google地图查看（外部链接）。",
+    "moreReviews": "在Google地图上查看",
+    "mapsUrl": "https://maps.app.goo.gl/tS17wHPJHJSeCe8E7",
+    "items": [
+      {
+        "name": "托马斯·J",
+        "date": "2026年4月",
+        "rating": 5,
+        "text": "考纳斯市中心美丽的公园！非常适合晨跑和傍晚散步。维护良好的小径和充足的绿地，人人都能享受。"
+      },
+      {
+        "name": "丽娜·S",
+        "date": "2026年3月",
+        "rating": 5,
+        "text": "城市中美妙的绿洲。非常适合带孩子的家庭。公园干净、安全，景观优美。"
+      },
+      {
+        "name": "明道加斯·K",
+        "date": "2026年2月",
+        "rating": 4,
+        "text": "不错的城市公园，有好的步行道。虽然不是很大，但非常适合快速逃离城市噪音。推荐来这里享受宁静的下午。"
+      },
+      {
+        "name": "加比娅·L",
+        "date": "2026年1月",
+        "rating": 5,
+        "text": "我在考纳斯最喜欢的公园之一。喜欢自然环境和宁静的氛围。放松和重新连接自然的好地方。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "如何到达",
+    "subtitle": "考纳斯，50119考纳斯城市市政区，立陶宛",
+    "openMaps": "在Google地图上查看",
+    "mapsUrl": "https://maps.app.goo.gl/tS17wHPJHJSeCe8E7"
+  },
+  "footer": {
+    "siteName": "卡尔尼丘公园",
+    "rights": "© 2026 卡尔尼丘公园独立旅游研究协会 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie设置",
+    "officialResourcesTitle": "相关资源与信息",
+    "officialLinksList": [
+      {"name": "立陶宛旅游", "url": "https://www.lithuania.travel/en/"},
+      {"name": "游览考纳斯", "url": "https://visit.kaunas.lt/en/"},
+      {"name": "考纳斯市", "url": "https://www.kaunas.lt/"},
+      {"name": "文化遗产部", "url": "https://kpd.lrv.lt/en/"},
+      {"name": "文化财产登记处", "url": "https://kpd.lrv.lt/lt/veiklos-sritys/kulturos-paveldo-apskaita/kulturos-vertybiu-registras/"}
+    ],
+    "disclaimer": "本网站是独立的第三方旅游信息项目。我们与当地政府或任何其他官方机构无关。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 信息收集",
+        "content": "我们通常不会主动收集用户的个人身份信息。您通过联系表格或电子邮件提供的任何信息都将严格保密。"
+      },
+      {
+        "heading": "2. 信息使用",
+        "content": "我们收集的信息仅用于提供、维护和改进我们的服务，并与您沟通。我们不会出于营销目的将您的个人信息出售或分享给第三方。"
+      },
+      {
+        "heading": "3. Cookie和追踪",
+        "content": "我们使用Cookie和类似的追踪技术来追踪我们网站上的活动并保存某些信息。您可以指示浏览器拒绝所有Cookie或指示何时发送Cookie。"
+      },
+      {
+        "heading": "4. 数据安全",
+        "content": "您的数据安全对我们很重要。我们使用商业上可接受的手段来保护您的个人数据，尽管没有任何通过互联网传输的方法是100%安全的。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "1. 条款接受",
+        "content": "通过访问和使用本网站，您同意受这些服务条款的约束。如果您不同意条款的任何部分，您不得访问服务。"
+      },
+      {
+        "heading": "2. 服务使用",
+        "content": "本网站是一个独立的第三方旅游信息项目。提供的信息仅用于一般信息目的。您同意负责任和合法地使用本网站。"
+      },
+      {
+        "heading": "3. 知识产权",
+        "content": "本网站上的所有内容，包括文本、图像和徽标，除非另有说明，否则均为网站所有者的财产。未经授权使用、复制或分发是严格禁止的。"
+      },
+      {
+        "heading": "4. 责任限制",
+        "content": "对于因使用或无法使用本网站或其中包含的信息而导致的任何直接、间接、附带或后果性损害，我们不承担任何责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie设置",
+    "description": "管理您的Cookie偏好。",
+    "essential": {
+      "title": "严格必要的Cookie",
+      "description": "网站基本功能所需。",
+      "badge": "始终活跃"
+    },
+    "analytics": {
+      "title": "分析Cookie",
+      "description": "帮助我们了解访客如何与网站互动。"
+    },
+    "marketing": {
+      "title": "营销Cookie",
+      "description": "用于跨网站追踪访客。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  },
+  "officialManagement": {
+    "title": "关于卡尔尼丘公园",
+    "text": "卡尔尼丘公园是由考纳斯城市市政区管理和维护的公共城市公园。\n作为考纳斯的绿地之一，公园每年接待数千名游客。公园将自然美景与社区娱乐设施相结合。"
+  },
+  "recommendations": {
+    "title": "探索更多",
+    "attractionsTitle": "附近景点",
+    "toursTitle": "推荐活动",
+    "attractions": [
+      {"name": "考纳斯老城", "url": "https://www.kaunas.lt/"},
+      {"name": "考纳斯城堡", "url": "https://www.kaunas.lt/"},
+      {"name": "魔鬼博物馆", "url": "https://www.lndm.lt/"}
+    ],
+    "tours": [
+      {"name": "考纳斯城市徒步游", "url": "https://visit.kaunas.lt/en/"},
+      {"name": "立陶宛自然体验", "url": "https://www.lithuania.travel/en/"},
+      {"name": "考纳斯文化遗产游", "url": "https://kpd.lrv.lt/en/"}
+    ]
+  }
+}
