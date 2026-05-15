@@ -5,7 +5,7 @@ export default function Footer() {
   const t = useTranslations('footer');
   const messages = useMessages() as any;
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const prefix = `/${locale}`;
 
   const officialLinks = (messages?.footer?.officialLinksList || []) as Array<{ name: string; url: string }>;
 

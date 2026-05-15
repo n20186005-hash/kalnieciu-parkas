@@ -52,18 +52,24 @@ function PrivacyContent() {
         <h1 className="font-display text-3xl sm:text-4xl font-bold mb-2" style={{ color: 'var(--text-primary)' }}>
           {t('title')}
         </h1>
-        <p className="text-sm mb-10" style={{ color: 'var(--text-muted)' }}>{t('lastUpdated')}</p>
+        <p className="text-sm mb-4" style={{ color: 'var(--text-muted)' }}>{t('lastUpdated')}</p>
+        
+        {t('intro') && (
+          <p className="text-base mb-10 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+            {t('intro')}
+          </p>
+        )}
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
         <div className="space-y-8">
           {sections.map((section, i) => (
-            <div key={i}>
+            <div key={i} className="p-5 sm:p-6 rounded-xl" style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}>
               <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
                 {section.heading}
               </h2>
-              <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+              <div className="leading-relaxed whitespace-pre-line" style={{ color: 'var(--text-secondary)' }}>
                 {section.content}
-              </p>
+              </div>
             </div>
           ))}
         </div>

@@ -8,13 +8,15 @@ export async function generateMetadata({
 }: {
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
+  const { locale } = await params;
   const baseUrl = siteConfig.baseUrl;
   const enUrl = `${baseUrl}/cookie-settings`;
   const zhUrl = `${baseUrl}/zh/cookie-settings`;
+  const selfUrl = locale === 'en' ? enUrl : zhUrl;
 
   return {
     alternates: {
-      canonical: enUrl,
+      canonical: selfUrl,
       languages: {
         'en': enUrl,
         'zh': zhUrl,

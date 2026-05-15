@@ -137,7 +137,7 @@
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinksList": [
       {"name": "Lithuania Travel", "url": "https://www.lithuania.travel/en/"},
-      {"name": "Visit Kaunas", "url": "https://visit.kaunas.lt/en/"},
+      {"name": "Visit Kaunas", "url": "https://oldvisit.kaunasin.lt/"},
       {"name": "Kaunas City", "url": "https://www.kaunas.lt/"},
       {"name": "Cultural Heritage Department", "url": "https://kpd.lrv.lt/en/"},
       {"name": "Cultural Property Registry", "url": "https://kpd.lrv.lt/lt/veiklos-sritys/kulturos-paveldo-apskaita/kulturos-vertybiu-registras/"}
@@ -147,65 +147,113 @@
   "privacy": {
     "title": "Privacy Policy",
     "lastUpdated": "Last updated: May 2026",
+    "intro": "We collect information only to provide, maintain, and improve our services. We value your privacy and are committed to protecting your personal data.",
     "sections": [
       {
-        "heading": "1. Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+        "heading": "Information We Collect",
+        "content": "We collect only the minimum data necessary to provide our services. This data may include:\n\n• Browsing data (IP address, browser type, pages visited)\n• Cookies and similar technologies\n• Any information you voluntarily provide through contact forms or emails"
       },
       {
-        "heading": "2. Use of Information",
-        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+        "heading": "How We Use Your Information",
+        "content": "We use the information we collect to:\n\n• Improve website content and user experience\n• Analyze traffic and usage patterns\n• Respond to your requests and inquiries\n• Comply with our legal obligations"
       },
       {
-        "heading": "3. Cookies and Tracking",
-        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+        "heading": "Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies. We do not directly collect or store information from these third parties."
       },
       {
-        "heading": "4. Data Security",
-        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+        "heading": "Your Data Protection Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the following rights:\n\n• Access your personal data\n• Request correction or deletion of your data\n• Object to processing of your data\n• Lodge a complaint with a supervisory authority\n\nTo exercise these rights, please contact us through our contact form."
+      },
+      {
+        "heading": "Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your personal data, though no method of transmission over the Internet is 100% secure. We implement appropriate technical and organizational measures to protect your data against unauthorized access, disclosure, alteration, or destruction."
+      },
+      {
+        "heading": "Changes to This Policy",
+        "content": "We may update our Privacy Policy from time to time. Any changes will be posted on this page with a new effective date. We encourage you to review this page periodically for the latest information."
       }
     ]
   },
   "terms": {
     "title": "Terms of Service",
     "lastUpdated": "Last updated: May 2026",
+    "intro": "By accessing and using this website, you agree to be bound by these Terms of Service. Please read the following terms carefully.",
     "sections": [
       {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+        "heading": "Access and Use",
+        "content": "By accessing and using this website, you agree to be bound by these Terms of Service. If you disagree with any part of the terms, you may not access or use this service. We reserve the right to modify these terms at any time, and such modifications shall become effective immediately upon posting on this page."
       },
       {
-        "heading": "2. Use of Service",
-        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+        "heading": "Content Use",
+        "content": "All content on this website is provided for informational purposes only. We are an independent third-party travel information website and are not affiliated with any tourist attractions, government agencies, or commercial operators. You may not:\n\n• Use the website content for any unlawful purpose\n• Attempt to gain unauthorized access to the website's systems or networks\n• Engage in any activity that may impair the performance or functionality of the website"
       },
       {
-        "heading": "3. Intellectual Property",
-        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+        "heading": "Information Accuracy",
+        "content": "We strive to provide accurate and up-to-date information, but we cannot guarantee the completeness or accuracy of the information. Schedules, conditions, and services are subject to change without notice. Please always verify important information through official channels before traveling. We are not responsible for any loss or damage resulting from the use of information on this website."
       },
       {
-        "heading": "4. Limitation of Liability",
-        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+        "heading": "Intellectual Property",
+        "content": "The design and original content of this website are copyright protected. Images are from Unsplash and used under their license. Use of Google Maps data complies with Google's Terms of Service. No content from this website may be reproduced, modified, distributed, or displayed without explicit written permission."
+      },
+      {
+        "heading": "External Links",
+        "content": "This website may contain links to third-party websites. These links are provided for reference only, and we are not responsible for the content, privacy policies, or practices of these websites. You access any third-party website at your own risk."
+      },
+      {
+        "heading": "Limitation of Liability",
+        "content": "This website is provided on an \"as is\" basis without any warranties. We shall not be held liable for any loss caused by the use of information on this website, including but not limited to travel decisions made based on the website's content. To the maximum extent permitted by law, we disclaim all express or implied warranties."
+      },
+      {
+        "heading": "Governing Law",
+        "content": "These Terms of Service shall be governed by and construed in accordance with applicable laws. Any dispute arising from or relating to these terms or the use of this website shall first be resolved through friendly negotiation. If negotiation fails, the dispute shall be submitted to a court of competent jurisdiction."
       }
     ]
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
+    "lastUpdated": "Last updated: May 2026",
+    "description": "We use Cookies to improve your browsing experience. You can manage your preferences below.",
+    "intro": "Cookies are small text files that are stored on your device when you visit a website. They help us provide better services and improve your experience.",
     "essential": {
-      "title": "Strictly Necessary Cookies",
-      "description": "Required for basic website functionality.",
+      "title": "Essential Cookies",
+      "description": "These cookies are strictly necessary for the website to function properly and cannot be disabled. They are usually set only in response to actions made by you, such as setting privacy preferences, logging in, or filling in forms.",
       "badge": "Always active"
     },
     "analytics": {
       "title": "Analytics Cookies",
-      "description": "Help us understand how visitors interact with the site."
+      "description": "These cookies help us understand how visitors interact with our website by collecting anonymous usage data. This helps us improve website functionality and user experience.",
+      "items": [
+        "Google Analytics - Collects anonymous information about how visitors use our website",
+        "Usage statistics - Help us understand which pages are most popular"
+      ]
+    },
+    "preferences": {
+      "title": "Preference Cookies",
+      "description": "These cookies remember your settings, such as language and theme preferences, to provide a personalized experience.",
+      "items": [
+        "User preferences - Saves your language preference and website settings",
+        "Interface settings - Remembers your display preferences"
+      ]
     },
     "marketing": {
       "title": "Marketing Cookies",
-      "description": "Used to track visitors across websites."
+      "description": "These cookies are used to display relevant advertisements and measure the effectiveness of advertising campaigns. They may also be set by advertising partners to build a profile of your interests.",
+      "items": [
+        "Personalized ads - Display relevant ads based on your interests",
+        "Ad performance - Measure the effectiveness of our marketing campaigns"
+      ]
+    },
+    "consent": {
+      "title": "Consent Management",
+      "description": "You can change your cookie settings at any time. Please note that disabling certain cookies may affect the functionality of the website.",
+      "savePreferences": "Save Preferences",
+      "acceptAll": "Accept All",
+      "rejectAll": "Reject All"
     },
     "save": "Save Preferences",
-    "saved": "Preferences saved!"
+    "saved": "Preferences saved!",
+    "manage": "Manage Cookie Settings"
   },
   "officialManagement": {
     "title": "About Kalniečių parkas",
