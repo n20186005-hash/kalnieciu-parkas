@@ -7,6 +7,11 @@ node_modules/
 # Static export output
 out/
 
+# Cloudflare / OpenNext (由 wrangler autoconfig 生成，不入库)
+.open-next/
+.wrangler/
+.dev.vars
+
 # Environment variables
 .env
 .env.local
